@@ -11,7 +11,6 @@ This repo includes scripts that demonstrate:
 - Loops (`for`, `while`)
 - Functions & Scope
 - Lists, Tuples, Dictionaries
-- Basic File Handling
 - Simple Modules and Imports
 
 
